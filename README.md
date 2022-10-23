@@ -6,14 +6,15 @@
 1. Создать формы на тильде (обычные или в zero-блоке, скрипт работает со всеми формами)
 2. Загрузить файл tss.min.js на свой хостинг
 3. Добавить на странице тилды следующий код:
-<script src="https://api.mufiksoft.com/js/tss.min.js"></script>
+
+[code]<script src="https://api.mufiksoft.com/js/tss.min.js"></script>
 <script>
     tssDeepLink("ВАШ ДОМЕН", true, {
         variables: {
             referer: "site.com/qwerty",
         },
     })
-</script>
+</script>[/code]
 https://image.mufiksoft.com/chrome_Aik1NiKrFn.jpg
 
 4. Добавить в настройки формы глубокую ссылку или ссылку на страницу "Спасибо" (скрипт сам определит тип ссылки)
