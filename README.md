@@ -13,7 +13,7 @@
         variables: {
             referer: "site.com/qwerty",
         },
-    })
+    }, "ССЫЛКА НА ДРУГУЮ СТРАНИЦУ ИЛИ 'ГЛУБОКАЯ ССЫЛКА'")
 </script></pre>
 
 https://image.mufiksoft.com/chrome_Aik1NiKrFn.jpg
